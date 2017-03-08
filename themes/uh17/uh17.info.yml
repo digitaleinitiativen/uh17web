@@ -1,0 +1,13 @@
+name: UH17 Theme
+type: theme
+base theme: classy
+Description: "Uh17 Drupal 8 Theme"
+package: custom
+core: 8.x
+
+regions:
+      headline: headline
+      header: header
+      content: content
+      sidebar: sidebar
+      footer: Footer
