@@ -46,3 +46,4 @@ core/phpunit.xml
 # Mac crap
 .DS_Store
 
+composer.phar
